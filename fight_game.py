@@ -1,5 +1,7 @@
 print("Hello, Cloud World!")
 print("")
+print("FIGHT!")
+print("")  
 def attack_enemy(enemy_health, attack_power):
     new_enemy_health = enemy_health - attack_power
     return new_enemy_health
