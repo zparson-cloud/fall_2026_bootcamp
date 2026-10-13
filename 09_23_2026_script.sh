@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hellow Cloud World"
+echo "Hello Cloud World"
 echo ""
 echo "Welcome to the Training Menu"
 echo "1) Check system information"
