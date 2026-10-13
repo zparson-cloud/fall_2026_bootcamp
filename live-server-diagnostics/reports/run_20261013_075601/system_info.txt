@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-10-13 07:56:01.644893
+Hostname: ZackaryCompute
+Operating system: Windows
+OS version: 10.0.26200
+Machine type: AMD64
+Current user ID: not available
+Current working directory: C:\Users\Owner\Documents\TheoWAF\cpg\cloudfundamentals\fall_2026_bootcamp\live-server-diagnostics

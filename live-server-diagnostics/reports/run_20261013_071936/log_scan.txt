@@ -1,0 +1,7 @@
+LOG SCAN
+========
+Log file: C:\Users\Owner\Documents\TheoWAF\cpg\cloudfundamentals\fall_2026_bootcamp\live-server-diagnostics\logs\server.log
+Warnings: 1
+Errors: 2
+Critical events: 1
+Log status: CRITICAL

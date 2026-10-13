@@ -1,0 +1,6 @@
+RESOURCE CHECK
+==============
+Disk usage: 9.83%
+Disk threshold: 85%
+Disk status: OK
+Load average: not available on this system
